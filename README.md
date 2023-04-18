@@ -1,6 +1,6 @@
-# Social Media Clone
+# Social Media Mock
 
-### A React webpage application simulating a social media platform.
+### A React mock-up webpage simulating a social media platform.
 
 #### By: Mitchell Gantz
 
@@ -47,14 +47,14 @@ git clone https://github.com/MGantz22/Social-Media.git
 ```
 
 **Directions after cloning are as follows:**
-1. Open the `social-media` directory within your CLI.
+1. Open the `Social-Media` directory within your CLI.
 2. Install all Node packages and dependencies with the command `npm install`.
-3. Package and open the project in your browser using `npm start`.
+3. Package and open the project in your browser using `npm run start`.
 
 
 ## Known Bugs
 
-* No functionality as intended, this just a mock static page.
+* Zero functionality, static page only.
 
 ## License
 
